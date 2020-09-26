@@ -7,4 +7,19 @@ p{
 div{
     font-size: 25px;
 }
-
+img{
+    margin: auto;
+    display: block;
+    border-color: black;
+    border-width: medium;
+    border-style: dashed;
+    border-radius: 25px;
+}
+.list{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    position: absolute;
+    top:2px;
+    right: 300px;
+    visibility: visible;
+}
