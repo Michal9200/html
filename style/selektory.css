@@ -1,0 +1,19 @@
+table{
+    border: 1px solid;
+    width: 80%;
+}
+td{
+    border: 1px solid;
+}
+#identyfikator{
+    background-color: #a6e508;
+}
+.mojaKlasa{
+    color: #d91b1b;
+}
+.mojaKlasa.mojaDrugaKlasa{
+    color: #187eec;
+}
+[title="Tytuł"]{
+    color: green;
+}
