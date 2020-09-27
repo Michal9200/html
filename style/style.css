@@ -23,3 +23,30 @@ img{
     right: 300px;
     visibility: visible;
 }
+
+a{
+text-decoration: none
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color: #d91b1b;
+}
+a:active{
+    color: green;
+}
+
+a:hover{
+    margin-top: 5px;
+    margin-left: 2px;
+    font-weight: bold;
+}
+
+p::first-letter{
+    font-size: 45px;
+}
+
+li:nth-child(2){
+    background-color: #d91b1b;
+}
